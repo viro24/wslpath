@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/nogoegst/wslpath/mount"
+	"github.com/viro24/wslpath/mount"
 )
 
 var (
